@@ -6,6 +6,10 @@
 
 * Data: http://www.stat.ucla.edu/projects/datasets/cardiac-explanation.html
 
-* Graphviz is used to plot the trees
+* The script is a predictive model based on decision trees to determine if the patient is likely to have one of the four events namely:
+(1) myocardial infarction (MI)
+(2) revascularization by percutaneous transluminal coronary angioplasty (PTCA)
+(3) coronary artery bypass grafting surgery (CABG) 
+(4) cardiac death
 
-* The script 
+* Graphviz is used to plot the trees
